@@ -4,3 +4,8 @@ pyod.egg-info/
 .pytest_cache
 __pycache__
 .idea
+#PhaseI
+#PhaseII
+*.txt
+test
+test.py
